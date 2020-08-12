@@ -2,11 +2,11 @@
 A roadmap for learners in the Google Africa Developer Scholarship on Pluralsight
 
 
-[Mobile Web Specialist](https://github.com/mikeattara/GADS2020-Roadmap/blob/master/MWS.md)
+[Mobile Web Specialist](./MWS.md)
 
 
 
-[Cloud](https://github.com/mikeattara/GADS2020-Roadmap/blob/master/Cloud.md)
+[Cloud](./Cloud.md)
 
 
-[Android](https://github.com/mikeattara/GADS2020-Roadmap/blob/master/Android.md)
+[Android](./Android.md)
